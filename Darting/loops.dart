@@ -1,6 +1,5 @@
-// import 'dart:io';
-import 'dart:io';
 
+ import 'dart:io';
 void main(){
     // user input
   print ("Enter name: ");
@@ -20,7 +19,6 @@ void main(){
   //   print("Hello $i");
     
   // }
-
 
 
 

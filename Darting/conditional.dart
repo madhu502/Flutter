@@ -28,6 +28,5 @@ void main(){
 
 // name.isEmpty? print("your name is empty"):print("your name is $name");
 
-
-
 }
+
