@@ -26,7 +26,7 @@ class SecondaryButton extends StatelessWidget {
                 child: Center(
                   child: Text(
                     buttonText,style:const TextStyle(
-                      color: Colors.green,fontSize: 15,fontWeight: FontWeight.bold), )),
+                      color: Colors.green,fontSize: 17,fontWeight: FontWeight.bold), )),
                         
                         
               ),
